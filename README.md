@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi, I'm Olesia</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="150"/></h1>
 
 
 
