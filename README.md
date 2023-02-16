@@ -7,10 +7,10 @@
 
 
 
-<!--
+
 - 🔭 I’m currently studing Automation testing 
 - 🌱 I’m currently learning English langiage 
 - 💬 This's my [Resume](https://drive.google.com/file/d/1I7UZqghUYnyNe78iusQm2ylWXuOSc3va/view?usp=sharing)
-- 📫 How to reach me: odigumnova@gmail.com
--->
+
+
 
