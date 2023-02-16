@@ -10,7 +10,7 @@
 
 - 📁 This's my [Portfolio](https://github.com/oigum/Portfolio)
 - 🔭 I’m currently studing Automation testing 
-- 🌱 I’m currently learning English langiage 
+- 🌱 I’m currently learning English 
 - 📝 This's my [Resume](https://drive.google.com/file/d/1I7UZqghUYnyNe78iusQm2ylWXuOSc3va/view?usp=sharing)
 
 
