@@ -2,15 +2,15 @@
 
 
 
-<h1 align="center">Hi, I'm <a href="https://github.com/oigum/Portfolio" target="_blank">Olesia</a> 
+<h1 align="center">Hi, I'm Olesia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
 
-
+- 📁 This's my [Portfolio](https://github.com/oigum/Portfolio)
 - 🔭 I’m currently studing Automation testing 
 - 🌱 I’m currently learning English langiage 
-- 💬 This's my [Resume](https://drive.google.com/file/d/1I7UZqghUYnyNe78iusQm2ylWXuOSc3va/view?usp=sharing)
+- 📝 This's my [Resume](https://drive.google.com/file/d/1I7UZqghUYnyNe78iusQm2ylWXuOSc3va/view?usp=sharing)
 
 
 
