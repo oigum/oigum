@@ -1,4 +1,5 @@
-<img width="893" alt="Снимок экрана 2023-02-16 в 18 16 14" src="https://user-images.githubusercontent.com/115995612/219413445-4625d002-c1c7-416a-bb43-246e19f4e39c.png">
+<img width="1493" alt="Снимок экрана 2023-02-16 в 19 25 01" src="https://user-images.githubusercontent.com/115995612/219426941-39393461-d844-4240-af1b-d709051fd999.png">
+
 
 
 
