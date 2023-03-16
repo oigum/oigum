@@ -3,7 +3,7 @@
 - 📁 This's my [Portfolio](https://github.com/oigum/Portfolio)
 - 🔭 I’m currently studing Automation testing 
 - 🌱 I’m currently learning English 
-- 📝 This's my [Resume]([https://drive.google.com/file/d/1I7UZqghUYnyNe78iusQm2ylWXuOSc3va/view?usp=sharing](https://drive.google.com/file/d/1_uD-0aCdAJ0fz_4EJ8lKGk5e7gBMQacA/view?usp=share_link))
+- 📝 This's my [Resume]([https://drive.google.com/file/d/1I7UZqghUYnyNe78iusQm2ylWXuOSc3va/view?usp=sharing](https://drive.google.com/file/d/1_uD-0aCdAJ0fz_4EJ8lKGk5e7gBMQacA/view?usp=share_link)
 
 
 
